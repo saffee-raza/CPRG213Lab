@@ -90,4 +90,3 @@ function changeDuration() {
 }
 
 durationButton.onclick = changeDuration;
-
